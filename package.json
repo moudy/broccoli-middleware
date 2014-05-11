@@ -1,6 +1,6 @@
 {
   "name": "broccoli-middleware",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Use Broccoli as middleware in connect apps. Useful for development... don't use this in production.",
   "repository": "git@github.com:moudy/broccoli-middleware.git",
   "main": "index.js",
